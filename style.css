@@ -1,0 +1,60 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color: #aedba9;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+button {
+  width: 80px;
+}
+
+.boxOne{
+  border-bottom: 40px solid #aedba9;
+}
+
+.boxTwo{
+  border-bottom: 40px solid #aedba9;
+}
+
+.response{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.questions{
+  display:none;
+}
+
+.goldenRetriever{
+  display:none;
+}
+
+.quokka{
+  display:none;
+}
+
+.koala{
+  display:none;
+}
+
+.cat{
+  display:none;
+}
+
+.red{
+  display:none;
+}
+
+.panda{
+  display:none;
+}
+
+.boxTwo{
+  display:none;
+}
